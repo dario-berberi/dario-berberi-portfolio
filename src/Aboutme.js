@@ -9,7 +9,7 @@ function Aboutme() {
           <h1>Dario Berberi</h1>
           <h2>
             Frontend web developer working with React framework to create high performance, clean design and fully
-            resposnive websites.
+            responsive websites.
           </h2>
           <h3>Education</h3>
           <p>
@@ -24,13 +24,13 @@ function Aboutme() {
           <h3>What can you expect</h3>
           <p>
             My focus is always high fucntionality on each project, making a website as fast as it can be without
-            compromising the design however the clients vision always has priority. Frequent communication between both
-            paries in order to create a visually pleasing and high fucntioning product.
+            compromising the design however the clients' vision always has priority. Frequent communication between both
+            parties in order to create a visually pleasing and high functioning product.
             <br />
-            62% of the internet's traffic comes from mobile devices therefore resposiveness is the second most important
+            62% of the internet's traffic comes from mobile devices therefore responsiveness is the second most important
             aspect in my work. A website should be adaptable to all screen sizes.
           </p>
-          <h3>Techincal specifications</h3>
+          <h3>Technincal specifications</h3>
           <div className="aboutme-icons">
             <a
               href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
