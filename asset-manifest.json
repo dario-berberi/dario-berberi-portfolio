@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dario-berberi-portfolio/static/css/main.e2e9786a.css",
-    "main.js": "/dario-berberi-portfolio/static/js/main.2fea4116.js",
+    "main.js": "/dario-berberi-portfolio/static/js/main.a7dcf984.js",
     "static/js/787.efd0d38b.chunk.js": "/dario-berberi-portfolio/static/js/787.efd0d38b.chunk.js",
     "static/media/landing_bg.jpg": "/dario-berberi-portfolio/static/media/landing_bg.35143c72487ac4b3696b.jpg",
     "static/media/airbnb_snip.png": "/dario-berberi-portfolio/static/media/airbnb_snip.a76a576f524e7aeb8795.png",
@@ -18,11 +18,11 @@
     "static/media/linkedin-svgrepo-com.svg": "/dario-berberi-portfolio/static/media/linkedin-svgrepo-com.7defd339fd92d3e5fa034b24a5f10ed6.svg",
     "index.html": "/dario-berberi-portfolio/index.html",
     "main.e2e9786a.css.map": "/dario-berberi-portfolio/static/css/main.e2e9786a.css.map",
-    "main.2fea4116.js.map": "/dario-berberi-portfolio/static/js/main.2fea4116.js.map",
+    "main.a7dcf984.js.map": "/dario-berberi-portfolio/static/js/main.a7dcf984.js.map",
     "787.efd0d38b.chunk.js.map": "/dario-berberi-portfolio/static/js/787.efd0d38b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2e9786a.css",
-    "static/js/main.2fea4116.js"
+    "static/js/main.a7dcf984.js"
   ]
 }
