@@ -44,7 +44,7 @@ function Contacts() {
           <img src={linkedin_svg} className="contacts-logo" alt="logo" />
         </a>
         <a
-          href="mailto: darioberberi11@gmail.com"
+          href="mailto: darioberberidev@gmail.com"
           className="contacts-link"
           data-tip="Send an email"
           target="_blank"
