@@ -17,11 +17,11 @@ const tileData = [
   },
   {
     id: 3,
-    cover_img: require('./images/quote_machine_snip.png'),
-    title: 'Quote Machine',
+    cover_img: require('./images/search_match_snip.png'),
+    title: 'Search and Match',
     description:
-      'Random quotes machine with a futuristic yet nostalgic degign. The quotes and authors are dynamic meaning everytime a new quote is requested the website makes an API call to find a new quote and display it. The user can also tweet the quote from the tweet button.',
-    repo_link: 'https://codepen.io/darioberberi/pen/ZEoLNjj',
+      'An application created to make searching for potential business partners fast and simple. The user needs to fill out a short form with the countries they are interested in operating and areas of shipping. Upon clicking "show results" they will be presented with the top 2 companies that best suit their requirements.',
+    repo_link: 'https://github.com/dario-berberi/search-match-comp-area',
   },
 ];
 

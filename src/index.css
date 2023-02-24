@@ -247,6 +247,19 @@ nav {
   font-size: 20px;
 }
 
+.projects-gh-link{
+  color: #2997FF;
+  text-decoration: none;
+}
+
+.projects-gh-link:hover{
+  text-decoration: underline;
+}
+
+.projects-gh-link:hover::after{
+  content: " >";
+}
+
 .tile-holder {
   width: 100%;
   overflow: hidden;
