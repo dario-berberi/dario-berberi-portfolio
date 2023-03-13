@@ -27,8 +27,8 @@ function Aboutme() {
             compromising the design however the clients' vision always has priority. Frequent communication between both
             parties in order to create a visually pleasing and high functioning product.
             <br />
-            62% of the internet's traffic comes from mobile devices therefore responsiveness is the second most important
-            aspect in my work. A website should be adaptable to all screen sizes.
+            62% of the internet's traffic comes from mobile devices therefore responsiveness is the second most
+            important aspect in my work. A website should be adaptable to all screen sizes.
           </p>
           <h3>Technincal specifications</h3>
           <div className="aboutme-icons">
@@ -161,15 +161,16 @@ function Aboutme() {
               />
             </a>
 
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" data-aos="fade-right">
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" data-aos="fade-right">
               <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
                 width="36"
                 height="36"
-                data-tip="MongoDB"
-                alt="MongoDB"
+                data-tip="Firebase"
+                alt="Firebase"
               />
             </a>
+
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" data-aos="fade-right">
               <img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"

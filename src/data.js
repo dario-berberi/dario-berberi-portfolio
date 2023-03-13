@@ -1,11 +1,11 @@
 const tileData = [
   {
     id: 1,
-    cover_img: require('./images/product_landing_snip.png'),
-    title: 'Product landing page',
+    cover_img: require('./images/vanlife_snip.png'),
+    title: 'Vanlife',
     description:
-      'Finalmouse inspired product lading page. Displaying images and specs for the product with the ability to go in depth for all the infromation on the product. The website is responsive and adapts to mobile screens. Clean minimalistic design with the focus on the product not the surrounds.',
-    repo_link: 'https://github.com/dario-berberi/certification-projects',
+      'A van rental website that allows the user to browse though a list of vans, look up the details for each one and rent the van best suited for their needs and budget. Vanlife provides an interface for hosts that rent their vans and it requires authentication to access. In the host section the host is presented with insights on the income the vans have generated, reviews and also the ability to modify the information about the vans they have listed for rental. The application is built using React, React router, Firebase and its responsive to all screens',
+    repo_link: 'https://github.com/dario-berberi/van-life',
   },
   {
     id: 2,
