@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dario-berberi-portfolio/static/css/main.c99b4740.css",
-    "main.js": "/dario-berberi-portfolio/static/js/main.026de6ff.js",
+    "main.js": "/dario-berberi-portfolio/static/js/main.a17e3781.js",
     "static/js/787.efd0d38b.chunk.js": "/dario-berberi-portfolio/static/js/787.efd0d38b.chunk.js",
     "static/media/landing_bg.jpg": "/dario-berberi-portfolio/static/media/landing_bg.35143c72487ac4b3696b.jpg",
     "static/media/search_match_snip.png": "/dario-berberi-portfolio/static/media/search_match_snip.fd3846a887598dc9f0e7.png",
@@ -18,11 +18,11 @@
     "static/media/linkedin-svgrepo-com.svg": "/dario-berberi-portfolio/static/media/linkedin-svgrepo-com.7defd339fd92d3e5fa034b24a5f10ed6.svg",
     "index.html": "/dario-berberi-portfolio/index.html",
     "main.c99b4740.css.map": "/dario-berberi-portfolio/static/css/main.c99b4740.css.map",
-    "main.026de6ff.js.map": "/dario-berberi-portfolio/static/js/main.026de6ff.js.map",
+    "main.a17e3781.js.map": "/dario-berberi-portfolio/static/js/main.a17e3781.js.map",
     "787.efd0d38b.chunk.js.map": "/dario-berberi-portfolio/static/js/787.efd0d38b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c99b4740.css",
-    "static/js/main.026de6ff.js"
+    "static/js/main.a17e3781.js"
   ]
 }
